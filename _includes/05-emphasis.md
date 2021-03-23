@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a dedicated and serious **classical violinist** who is learning how to use *GitHub* and programming languages such as **JavaScript** and **Markdown**.
