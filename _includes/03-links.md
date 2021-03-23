@@ -1,1 +1,1 @@
-[CodePen] (https://codepen.io/jpotts7)
+[CodePen](https://codepen.io/jpotts7)
