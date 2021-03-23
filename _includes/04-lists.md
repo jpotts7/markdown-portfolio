@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+In my spare time I enjoy:
+* Playing the violin
+* Reading
+* Walking my dog
+* Collecting hockey cards
